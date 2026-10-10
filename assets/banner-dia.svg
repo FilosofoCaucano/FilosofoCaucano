@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Willian David Correa · FilosofoCaucano</title>
+  <desc id="d">Banner diurno con colinas del Valle del Cauca, sol y surcos de cultivo.</desc>
+
+  <defs>
+    <clipPath id="midClip">
+      <path d="M0 270 C200 245 380 265 560 250 S860 195 1000 205 S1150 185 1200 190 L1200 300 L0 300 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Cielo pergamino -->
+  <rect width="1200" height="300" fill="#FDF6E3"/>
+
+  <!-- Sol con halo -->
+  <circle cx="1040" cy="82" r="56" fill="#F3ECD8"/>
+  <circle cx="1040" cy="82" r="34" fill="#AD7B4E"/>
+
+  <!-- Colina lejana -->
+  <path d="M0 250 C150 215 300 235 450 225 S750 150 900 160 S1100 120 1200 140 L1200 300 L0 300 Z" fill="#A7C080"/>
+
+  <!-- Colina media con surcos -->
+  <path d="M0 270 C200 245 380 265 560 250 S860 195 1000 205 S1150 185 1200 190 L1200 300 L0 300 Z" fill="#5C7036"/>
+  <g clip-path="url(#midClip)" fill="none" stroke="#487335" stroke-width="2">
+    <path d="M0 282 C200 257 380 277 560 262 S860 207 1000 217 S1150 197 1200 202"/>
+    <path d="M0 294 C200 269 380 289 560 274 S860 219 1000 229 S1150 209 1200 214"/>
+    <path d="M0 306 C200 281 380 301 560 286 S860 231 1000 241 S1150 221 1200 226"/>
+  </g>
+
+  <!-- Colina cercana -->
+  <path d="M0 288 C250 270 500 292 760 272 S1060 250 1200 262 L1200 300 L0 300 Z" fill="#2F5A3A"/>
+
+  <!-- Texto -->
+  <text x="60" y="122" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-weight="700" font-size="54" fill="#44483E">Willian David Correa</text>
+  <text x="62" y="166" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="#446E2E">FilosofoCaucano  ·  Understanding Systems</text>
+  <text x="62" y="204" font-family="Verdana, 'DejaVu Sans', sans-serif" font-size="15" fill="#5F655D">Valle del Cauca · Colombia</text>
+</svg>
