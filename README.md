@@ -18,7 +18,7 @@ Systems Engineer from Valle del Cauca, Colombia. I like building things that con
 
 | Project | What it is |
 |---|---|
-| [**telemetria-suelo-esp32**](https://github.com/FilosofoCaucano/telemetria-suelo-esp32) | ESP32 soil telemetry node: capture, MQTT transport and natural-language queries over a vector database. |
+| |
 | [**music-machine-learning-backend**](https://github.com/FilosofoCaucano/music-machine-learning-backend) | Machine-learning notebooks on instrument audio: bombo, bandola, charango and cajón. |
 | [**camiones-del-sur**](https://github.com/FilosofoCaucano/camiones-del-sur) | Road-transport simulator in Python + ursina, with pure, testable game logic that runs without opening a window. |
 | [**cenit**](https://github.com/FilosofoCaucano/cenit) | Finds the two dates each year when the sun crosses the zenith over any Colombian municipality. Python desktop app + Android app. |
