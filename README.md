@@ -34,7 +34,8 @@ Systems Engineer from Valle del Cauca, Colombia. I like building things that con
   <img src="https://img.shields.io/badge/ESP32-446E2E?style=flat-square&logo=espressif&logoColor=FDF6E3" alt="ESP32">
 </p>
 
-<!-- Add your LinkedIn or contact link here, for example:
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/your-profile)
--->
+
+Open to remote cloud and IoT roles. The best way to reach me is LinkedIn.
+
+<a href="https://www.linkedin.com/in/willian-david-correa-valencia-595247271/"><img src="https://img.shields.io/badge/LinkedIn-Willian_David_Correa-446E2E?style=flat-square&logo=linkedin&logoColor=FDF6E3" alt="LinkedIn: Willian David Correa"></a>
