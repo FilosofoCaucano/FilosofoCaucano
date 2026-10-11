@@ -1,10 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-noche.svg">
-    <img src="assets/banner-dia.svg" alt="Willian David Correa · FilosofoCaucano · Understanding Systems" width="100%">
-  </picture>
+  <img src="assets/banner-dia.svg" alt="Willian David Correa · FilosofoCaucano · Understanding Systems" width="100%">
 </p>
-
 ## About
 
 Systems Engineer from Valle del Cauca, Colombia. I like building things that connect code to the physical world: sensors, data pipelines and the cloud services that hold them together.
