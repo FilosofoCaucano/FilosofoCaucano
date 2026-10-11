@@ -24,14 +24,14 @@ Systems Engineer from Valle del Cauca, Colombia. I like building things that con
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3C6B58?style=flat-square&logo=python&logoColor=FDF6E3" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-487335?style=flat-square&logo=fastapi&logoColor=FDF6E3" alt="FastAPI">
-  <img src="https://img.shields.io/badge/React-4A6C88?style=flat-square&logo=react&logoColor=FDF6E3" alt="React">
-  <img src="https://img.shields.io/badge/PostgreSQL-4A6C88?style=flat-square&logo=postgresql&logoColor=FDF6E3" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/AWS-866226?style=flat-square&logo=amazonwebservices&logoColor=FDF6E3" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-4A6C88?style=flat-square&logo=docker&logoColor=FDF6E3" alt="Docker">
-  <img src="https://img.shields.io/badge/MQTT-7A5538?style=flat-square&logo=mqtt&logoColor=FDF6E3" alt="MQTT">
-  <img src="https://img.shields.io/badge/ESP32-7A5568?style=flat-square&logo=espressif&logoColor=FDF6E3" alt="ESP32">
+  <img src="https://img.shields.io/badge/Python-446E2E?style=flat-square&logo=python&logoColor=FDF6E3" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-446E2E?style=flat-square&logo=fastapi&logoColor=FDF6E3" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-2B3225?style=flat-square&logo=react&logoColor=FDF6E3" alt="React">
+  <img src="https://img.shields.io/badge/PostgreSQL-2B3225?style=flat-square&logo=postgresql&logoColor=FDF6E3" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/AWS-AD7B4E?style=flat-square&logo=amazonwebservices&logoColor=FDF6E3" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2B3225?style=flat-square&logo=docker&logoColor=FDF6E3" alt="Docker">
+  <img src="https://img.shields.io/badge/MQTT-AD7B4E?style=flat-square&logo=mqtt&logoColor=FDF6E3" alt="MQTT">
+  <img src="https://img.shields.io/badge/ESP32-446E2E?style=flat-square&logo=espressif&logoColor=FDF6E3" alt="ESP32">
 </p>
 
 <!-- Add your LinkedIn or contact link here, for example:
